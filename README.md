@@ -9,7 +9,7 @@ The latest Windows executable is available from the Releases page:
 
 Download:
 
-`Style-Scalpel-v1.3.exe`
+[Download Style Scalpel v1.3](https://github.com/m0333ism-dev/Style-Scalpel/releases/tag/v1.3)
 
 ## Important note
 
@@ -34,3 +34,13 @@ This tool is connected to my research on forensic stylometric detection of AI-ge
 ## Disclaimer
 
 This detector should be used as an analytical aid, not as the only evidence for accusing a writer of using AI.
+
+## OSF Archive
+
+The research archive and additional project materials are available on OSF:
+
+https://osf.io/2d39j/overview?view_only=62cf45079b42459f9f54dbc90bdb5209
+
+## Warning
+
+Windows may show a SmartScreen warning because the executable is not code-signed. This warning means Windows does not recognize the publisher. It does not automatically mean the file is unsafe.
