@@ -45,3 +45,6 @@ https://osf.io/2d39j/overview?view_only=62cf45079b42459f9f54dbc90bdb5209
 ## Warning
 
 Windows may show a SmartScreen warning because the executable is not code-signed. This warning means Windows does not recognize the publisher. It does not automatically mean the file is unsafe.
+
+Cite the software:
+Style Scalpel v1.3. DOI: https://doi.org/10.17605/OSF.IO/2D39J
