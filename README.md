@@ -35,6 +35,11 @@ This tool is connected to my research on forensic stylometric detection of AI-ge
 ## Disclaimer
 
 This detector should be used as an analytical aid, not as the only evidence for accusing a writer of using AI.
+## License
+
+This project is licensed under the Apache License 2.0.
+
+The detector is provided for research and educational use. It should be treated as an analytical aid, not as standalone proof that a text is AI-generated or human-written.
 
 ## OSF Archive
 
@@ -48,3 +53,5 @@ Windows may show a SmartScreen warning because the executable is not code-signed
 
 Cite the software:
 Style Scalpel v1.3. DOI: https://doi.org/10.17605/OSF.IO/2D39J
+
+Copyright [2026] [Muhammad Ismail]
