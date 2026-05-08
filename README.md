@@ -6,6 +6,7 @@ Style Scalpel is a Windows-based forensic stylometric AI-text detector. It uses 
 The latest Windows executable is available from the Releases page:
 
 **Latest version:** v1.3
+<img width="768" height="568" alt="image" src="https://github.com/user-attachments/assets/9447f51e-ff85-4492-a2be-58e7f5c6ecbc" />
 
 Download:
 
