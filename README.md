@@ -1,14 +1,27 @@
 # Style-Scalpel
-Style Scalpel is a Windows-based forensic stylometric AI-text detector. It uses interpretable linguistic and stylometric features to estimate whether a text is more likely to be human-written or AI-generated.
+# Style Scalpel
 
+**Live system:** https://stylescalpel.com
+
+Style Scalpel is a forensic stylometric AI-text analysis system for exploratory comparison of human-written and AI-generated texts. It provides document-level verdicts, paragraph-level probability tables, suspicious-paragraph reporting, and exportable forensic-style HTML evidence.
+
+## Use the live system
+
+Open the hosted version here:
+
+https://stylescalpel.com
+
+## Desktop version
+
+The Windows desktop build is still available as v1.3:
+
+https://github.com/m0333ism-dev/Style-Scalpel/releases/tag/v1.3
 ## Download
 
 The latest Windows executable is available from the Releases page:
 
 **Latest version:** v1.3
 <img width="768" height="568" alt="image" src="https://github.com/user-attachments/assets/9447f51e-ff85-4492-a2be-58e7f5c6ecbc" />
-
-Download:
 
 [Download Style Scalpel v1.3](https://github.com/m0333ism-dev/Style-Scalpel/releases/tag/v1.3)
 
