@@ -67,11 +67,11 @@ Style Scalpel was evaluated against the IDMGSP benchmark for distinguishing huma
 | DetectGPT | — | 61.5 | 0.0 | 99.9 | 68.7 | N/A |
 | ChatGPT-IO | — | 69.0 | 49.0 | 89.0 | 0.0 | 3.0 |
 | LLMFE | TRAIN + GPT3 | 80.0 | 62.0 | 70.0 | 90.0 | 33.0 |
-| **Style Scalpel / stylometric model** | **TRAIN** | **98.75** | **7.5** | **98.5** | **99.90** | **2.80** |
-| **Style Scalpel / stylometric model** | **TRAIN-CG** | **97.49** | **10.9** | **98.33** | **90.30** | **0.65** |
-| **Style Scalpel / stylometric model** | **TRAIN + GPT3** | **98.46** | **99.3** | **94.4** | **100.0** | **3.23** |
+| **Style Scalpel / stylometric model** | **TRAIN** | **98.68** | **17.60** | **97.52** | **100.0** | **14.67** |
+| **Style Scalpel / stylometric model** | **TRAIN-CG** | **98.23** | **15.20** | **97.50** | **95.80** | **9.55** |
+| **Style Scalpel / stylometric model** | **TRAIN + GPT-3** | **98.79** | **98.90** | **95.65** | **100.0** | **23.18** |
 
-**Interpretation.** The stylometric model is highly competitive on the main IDMGSP TEST split, reaching 98.75% under TRAIN, 98.46% under TRAIN + GPT3, and 97.49% under TRAIN-CG. Its performance is also strong on OOD-REAL and TECG. However, the model performs poorly on TEST-CC, which appears to contain substantial encoding or extraction artifacts. This limitation is reported openly because the tool is intended as a transparent analytical aid, not as automatic proof of AI use.
+**Interpretation.** The stylometric model is highly competitive on the main IDMGSP TEST split, reaching 98.68% under TRAIN, 98.79% under TRAIN + GPT-3, and 98.23% under TRAIN-CG. Its performance is also strong on OOD-REAL and TECG. However, the model performs less consistently on OOD-GPT3 without GPT-3 examples in training and remains weak on TEST-CC, which appears to contain substantial encoding or extraction artifacts. This limitation is reported openly because the tool is intended as a transparent analytical aid, not as automatic proof of AI use.
 
 **Benchmark source:** Abdalla, M. H. I., Malberg, S., Dementieva, D., Mosca, E., & Groh, G. (2023). *A benchmark dataset to distinguish human-written and machine-generated scientific papers*. Information, 14(10), 522. https://doi.org/10.3390/info14100522
 
